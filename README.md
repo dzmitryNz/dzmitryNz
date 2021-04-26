@@ -6,4 +6,5 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - telegram: @rmitry
 
-recently  i did worked on rslang frontend and backend
+recently  i did worked on frontend and backend
+https://rslang.tk (https://rslang-team108.netlify.com)
