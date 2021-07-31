@@ -10,30 +10,26 @@
 
 
 https://game-globalcompact.org.ua
+  - role: backend, devops, frontend
   - used: JS, NodeJS, Express, MongoDb, CSS, BootstrapUI
-  - my role: backend, devops, frontend
-
 
 https://rslang.tk - git - https://github.com/dzmitryNz/rslang
+  - role: backend, frontend, devops
   - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
-  - my role: backend, frontend, devops
-
 
 https://travelapp.tk - git - https://github.com/dzmitryNz/travelapp
+  - role: backend, devops, frontend
   - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
-  - my role: backend, devops, frontend 
-
-
+ 
 https://kadino.ga 
+  - role: backend, frontend, IOT 
   - used: JS, CSS, NodeJS, MongoDb
-  - my role: backend, frontend, IOT 
-
 
 https://homeplanner.tk- git - https://github.com/dzmitryNz/hgp
+  - role: design, frontend, backend, devops
   - React, SCSS, NodeJS, Express, MongoDb
-  - my role: design, frontend, backend, devops
-
 
 https://covid.dzmitrynz.github.io - git - https://github.com/dzmitryNz/covid
+  - role: frontend  COVID Dashboard
   - used: JS, SCSS, RestAPI
-  - my role: frontend  COVID Dashboard
+
