@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Frontend and Backend, JavaScript, React, NodeJS, MongoDb, Python, C++, IOT, Blockchain
 - 🌱 I’m currently learning Angular, PostgreSQL, Blockchain
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I'm looking to collaborate on interest to me project
 - 📫 How to reach me
   - telegram: @rmitry
   - email: d.nayezzhy@gmail.com
