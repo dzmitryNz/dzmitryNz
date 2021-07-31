@@ -9,23 +9,23 @@
 
 
 https://game-globalcompact.org.ua
-      - used: JS, NodeJS, Express, MongoDb, CSS, BootstrapUI
-      - my role: backend, devops, frontend
+  - used: JS, NodeJS, Express, MongoDb, CSS, BootstrapUI
+  - my role: backend, devops, frontend
 
 
 https://rslang.tk - git - https://github.com/dzmitryNz/rslang
-      - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
-      - my role: backend, frontend, devops
+  - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
+  - my role: backend, frontend, devops
 
 
 https://travelapp.tk - git - https://github.com/dzmitryNz/travelapp
-    - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
-    - my role: backend, devops, frontend 
+  - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
+  - my role: backend, devops, frontend 
 
 
 https://kadino.ga 
-    - used: JS, CSS, NodeJS, MongoDb
-    - my role: backend, frontend, IOT 
+  - used: JS, CSS, NodeJS, MongoDb
+  - my role: backend, frontend, IOT 
 
 
 https://homeplanner.tk- git - https://github.com/dzmitryNz/hgp
