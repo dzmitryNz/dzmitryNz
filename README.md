@@ -25,7 +25,7 @@ https://kadino.ga
   - role: backend, frontend, IOT 
   - used: JS, CSS, NodeJS, MongoDb
 
-https://homeplanner.tk- git - https://github.com/dzmitryNz/hgp
+https://homeplanner.ml- git - https://github.com/dzmitryNz/hgp
   - role: design, frontend, backend, devops
   - React, SCSS, NodeJS, Express, MongoDb
 
