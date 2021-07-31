@@ -7,14 +7,14 @@
 - 📫 How to reach me - telegram: @rmitry
                       - email: d.nayezzhy@gmail.com
 
-backend, devops, frontend  https://game-globalcompact.org.ua (JS, CSS, BootstrapUI, NodeJS, Express, MongoDb)
+backend, devops, frontend - https://game-globalcompact.org.ua (JS, CSS, BootstrapUI, NodeJS, Express, MongoDb)
 
-backend, frontend, devops  https://rslang.tk (React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/rslang
+backend, frontend, devops - https://rslang.tk (React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/rslang
 
-backend, devops, frontend  https://travelapp.tk (React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/travelapp
+backend, devops, frontend - https://travelapp.tk (React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/travelapp
 
-backend, frontend, IOT https://kadino.ga (JS, CSS, NodeJS, MongoDb)
+backend, frontend, IOT - https://kadino.ga (JS, CSS, NodeJS, MongoDb)
 
-design, frontend, backend, devops  https://homeplanner.tk (React, SCSS, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/hgp
+design, frontend, backend, devops - https://homeplanner.tk (React, SCSS, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/hgp
 
-frontend  COVID Dashboard https://covid.dzmitrynz.github.io (JS, SCSS, RestAPI) git - https://github.com/dzmitryNz/covid
+frontend  COVID Dashboard - https://covid.dzmitrynz.github.io (JS, SCSS, RestAPI) git - https://github.com/dzmitryNz/covid
