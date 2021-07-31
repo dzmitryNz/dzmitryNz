@@ -8,8 +8,8 @@
                       - email: d.nayezzhy@gmail.com
 
   https://game-globalcompact.org.ua
-    (JS, NodeJS, Express, MongoDb, CSS, BootstrapUI)
-    backend, devops, frontend
+    - (JS, NodeJS, Express, MongoDb, CSS, BootstrapUI)
+    - backend, devops, frontend
 
 https://rslang.tk
     (React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb)
