@@ -7,8 +7,8 @@
 - 📫 How to reach me - telegram: @rmitry
                       - email: d.nayezzhy@gmail.com
 
-https://game-globalcompact.org.ua
-    (JS, CSS, BootstrapUI, NodeJS, Express, MongoDb)
+  https://game-globalcompact.org.ua
+    (JS, NodeJS, Express, MongoDb, CSS, BootstrapUI)
     backend, devops, frontend
 
 https://rslang.tk
