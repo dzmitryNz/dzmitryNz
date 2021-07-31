@@ -8,18 +8,25 @@
                       - email: d.nayezzhy@gmail.com
 
   https://game-globalcompact.org.ua
-    - (JS, NodeJS, Express, MongoDb, CSS, BootstrapUI)
-    - backend, devops, frontend
+    - used: JS, NodeJS, Express, MongoDb, CSS, BootstrapUI
+    - my role: backend, devops, frontend
 
-https://rslang.tk
-    (React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb)
-    backend, frontend, devops
-    git - https://github.com/dzmitryNz/rslang
-    
-backend, devops, frontend - https://travelapp.tk (React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/travelapp
+https://rslang.tk - git - https://github.com/dzmitryNz/rslang
+    - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
+    - my role: backend, frontend, devops
+   
+https://travelapp.tk - git - https://github.com/dzmitryNz/travelapp
+  - used: React, TS, SCSS, BootstrapUI, NodeJS, Express, MongoDb
+  - my role: backend, devops, frontend 
 
-backend, frontend, IOT - https://kadino.ga (JS, CSS, NodeJS, MongoDb)
+https://kadino.ga 
+  - used: JS, CSS, NodeJS, MongoDb
+  - my role: backend, frontend, IOT 
 
-design, frontend, backend, devops - https://homeplanner.tk (React, SCSS, NodeJS, Express, MongoDb) git - https://github.com/dzmitryNz/hgp
+https://homeplanner.tk- git - https://github.com/dzmitryNz/hgp
+  - React, SCSS, NodeJS, Express, MongoDb
+  - my role: design, frontend, backend, devops
 
-frontend  COVID Dashboard - https://covid.dzmitrynz.github.io (JS, SCSS, RestAPI) git - https://github.com/dzmitryNz/covid
+https://covid.dzmitrynz.github.io - git - https://github.com/dzmitryNz/covid
+  - used: JS, SCSS, RestAPI
+  - my role: frontend  COVID Dashboard
