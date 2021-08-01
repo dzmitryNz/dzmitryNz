@@ -29,7 +29,7 @@ https://homeplanner.ml- git - https://github.com/dzmitryNz/hgp
   - role: design, frontend, backend, devops
   - React, SCSS, NodeJS, Express, MongoDb
 
-https://covid.dzmitrynz.github.io - git - https://github.com/dzmitryNz/covid
+https://dzmitrynz.github.io/covid/ - git - https://github.com/dzmitryNz/covid
   - role: frontend  COVID Dashboard
   - used: JS, SCSS, RestAPI
 
