@@ -11,7 +11,7 @@
 
 https://game-globalcompact.org.ua
   - role: backend, frontend, devops
-  - used: JS, NodeJS, Express, MongoDb, CSS, BootstrapUI
+  - used: JS, NodeJS, Express, MongoDb, BootstrapUI
 
 https://rslang.tk - git - https://github.com/dzmitryNz/rslang
   - role: backend, frontend, devops
