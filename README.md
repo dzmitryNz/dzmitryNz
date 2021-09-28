@@ -31,5 +31,8 @@ https://travelapp.tk - git - https://github.com/dzmitryNz/travelapp
 
 https://dzmitrynz.github.io/covid/ - git - https://github.com/dzmitryNz/covid
   - role: frontend  COVID Dashboard
-  - used: JS, SCSS, RestAPI
+  - used: JS, SCSS, RESTapi
 
+git - https://github.com/dzmitryNz/momentum
+  - role: frontend
+  - used: JS, CSS, RESTapi 
