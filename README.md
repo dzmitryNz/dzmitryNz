@@ -13,7 +13,7 @@ https://game-globalcompact.org.ua
   - role: backend, frontend, devops
   - used: JS, NodeJS, Express, MongoDb, BootstrapUI
 
-https://kadino.ga, https://bustime.tk - git - https://github.com/dzmitryNz/kadino
+https://bustime.tk, https://kadino.netlify.app,  - git - https://github.com/dzmitryNz/kadino
   - role: backend, frontend, IOT 
   - used: JS, CSS, NodeJS, MongoDb
 
