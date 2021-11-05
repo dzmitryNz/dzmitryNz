@@ -8,6 +8,10 @@
   - telegram: @rmitry
   - email: d.nayezzhy@gmail.com
 
+ 
+http://raroin.herokuapp.com/
+  - role: frontend, devops
+  - used: NextJS, Bootstrap 5
 
 https://game-globalcompact.org.ua
   - role: backend, frontend, devops
