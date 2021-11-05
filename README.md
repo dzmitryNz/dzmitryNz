@@ -11,7 +11,7 @@
  
 http://raroin.herokuapp.com/
   - role: frontend, devops
-  - used: NextJS, Bootstrap 5
+  - used: NextJS, Bootstrap 5, SCSS
 
 https://game-globalcompact.org.ua
   - role: backend, frontend, devops
