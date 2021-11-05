@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Dzmitry Nayezzhy
 
-- 👀 I’m Frontend and Backend dev, JavaScript, React, NodeJS, MongoDb, Python, C++, IOT, Blockchain
+- 👀 I’m Frontend and Backend dev, JavaScript, React, NextJS, NodeJS, MongoDb, Python, C++, IOT, Blockchain
 - 🌱 I’m currently learning Angular, PostgreSQL, Blockchain
 - 💞️ I'm looking to collaborate on interest to me project
 - 📫 How to reach me
