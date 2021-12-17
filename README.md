@@ -9,7 +9,7 @@
   - email: d.nayezzhy@gmail.com
 
  
-https://raroin.herokuapp.com/
+https://nify.herokuapp.com/
   - role: frontend, devops
   - used: NextJS, Bootstrap 5, SCSS
 
