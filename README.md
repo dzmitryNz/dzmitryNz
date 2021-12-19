@@ -11,7 +11,7 @@
  
 https://nify.herokuapp.com/
   - role: frontend, devops
-  - used: NextJS, Bootstrap 5, SCSS
+  - used: NextJS, Moralis, Metamask, Bootstrap 5, SCSS
 
 https://game-globalcompact.org.ua
   - role: backend, frontend, devops
