@@ -9,7 +9,7 @@
   - email: d.nayezzhy@gmail.com
 
  
-https://nify.herokuapp.com/
+https://nify.herokuapp.com/ - NFT social marketplace concept
   - role: frontend, devops
   - used: NextJS, Moralis, Metamask, Bootstrap 5, SCSS
 
