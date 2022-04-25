@@ -1,8 +1,9 @@
 
 👋 Hi, I’m Dzmitry Nayezzhy
 
-- 👀 I’m Fullstack developer, JavaScript, React, NextJS, Node.js, MongoDb, PostgreSQL, TypeORM, Mongoose, Python, C++, IOT, Blockchain
-- 🌱 I’m currently learning Angular, Blockchain, Nest.js
+- 👀 I’m Fullstack developer, JavaScript, TypeScript, 
+- React, NextJS, Node.js, Nest.js, MongoDb, PostgreSQL, TypeORM, Mongoose, Moralis, Python, C++, IOT, Blockchain
+- 🌱 I’m currently learning Angular, Blockchain
 - 💞️ I'm looking to collaborate on interest to me project
 - 📫 How to reach me
   - telegram: @rmitry
@@ -11,7 +12,7 @@
 
 https://nify.herokuapp.com/ - NFT social marketplace concept
   - role: frontend, devops
-  - used: NextJS, Moralis, Metamask, Bootstrap 5, SCSS
+  - used: Next.js, Moralis, Metamask, Bootstrap 5, SCSS
 
 https://game-globalcompact.org.ua
   - role: backend, frontend, devops
