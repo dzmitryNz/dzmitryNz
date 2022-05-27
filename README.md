@@ -3,7 +3,7 @@
 
 - 👀 I’m Fullstack developer, JavaScript, TypeScript, 
 - React, Next.js, Node.js, Nest.js, MongoDb, PostgreSQL, Sequilize, TypeORM, Mongoose, Blockchain, Moralis, Python, C++, IOT
-- 🌱 I’m currently learning Angular, Blockchain
+- 🌱 I’m currently learning Blockchain, Smart contracts
 - 💞️ I'm looking to collaborate on interest to me project
 - 📫 How to reach me
   - telegram: @rmitry
