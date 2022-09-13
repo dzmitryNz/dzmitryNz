@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Dzmitry Nayezzhy
+👋 Hi, I’m Dzmitry
 
 - 👀 I’m Fullstack developer, JavaScript, TypeScript, 
 - React, Next.js, Node.js, Nest.js, MongoDb, PostgreSQL, Sequilize, TypeORM, Mongoose, Blockchain, Moralis, Python, C++, IOT
