@@ -15,6 +15,8 @@ https://nify.herokuapp.com/ - NFT social marketplace concept
   - used: Next.js, Moralis, Metamask, Bootstrap 5, SCSS
 
 https://game-globalcompact.org.ua
+
+  - quiz game for UN global compact UA
   - role: backend, frontend, devops
   - used: JS, NodeJS, Express, MongoDb, BootstrapUI
 
