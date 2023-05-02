@@ -2,7 +2,7 @@ Hi 👋 My name is Dzmitry
 ========================
 
 * 🌍  I'm based in Belarus
-* ✉️  You can contact me at [rmitry@gmail.com](mailto:rmitry@gmail.com)
+* ✉️  You can contact me at [rmitry@gmail.com](mailto:devmitry@gmail.com)
 * 🚀  I'm currently working on [Home grocery planner](http://home-planner.ml)
 * 🧠  I'm learning Astro
 
