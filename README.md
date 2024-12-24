@@ -4,7 +4,7 @@ Hi 👋 My name is Dzmitry
 * 🌍  I'm based in Belarus
 * ✉️  You can contact me at [devmitry@gmail.com](mailto:devmitry@gmail.com)
 * 🚀  I'm currently working on [Home grocery planner](http://home-planner.ml)
-* 🧠  I'm learning Astro
+* 🧠  
 
 <a href="https://www.github.com/dzmitrynz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dzmitrynz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -67,15 +67,17 @@ src="https://img.shields.io/github/followers/dzmitrynz?logo=github&style=for-the
 - 💞️ I'm looking to collaborate on interest to me project
 - 📫 How to reach me
   - telegram: @rmitry
-  - email: d.nayezzhy@gmail.com
+  - email: devmitry@gmail.com
 
+https://yoda.by/ - Groceries marketplace mobile app
+  - role: backend, admin frontend, devops
+  - used: Nest.js, React, postgreSQL, MaterialUI, Websocket, gRPC, Firebase
 
 https://nify.herokuapp.com/ - NFT social marketplace concept
   - role: frontend, devops
   - used: Next.js, Moralis, Metamask, Bootstrap 5, SCSS
 
 https://game-globalcompact.org.ua
-
   - quiz game for UN global compact UA
   - role: backend, frontend, devops
   - used: JS, NodeJS, Express, MongoDb, BootstrapUI
