@@ -71,18 +71,18 @@ src="https://img.shields.io/github/followers/dzmitrynz?logo=github&style=for-the
 
 https://yoda.by/ - Groceries marketplace mobile app
   - role: backend, admin frontend, devops
-  - used: Nest.js, React, postgreSQL, MaterialUI, Websocket, gRPC, Firebase
+  - used: Nest.js, React, postgreSQL, MaterialUI, Websocket, gRPC, Docker, Redis, Firebase cloud messaging, Huawei cloud messagimg
 
 https://nify.herokuapp.com/ - NFT social marketplace concept
   - role: frontend, devops
   - used: Next.js, Moralis, Metamask, Bootstrap 5, SCSS
 
-https://game-globalcompact.org.ua
+https://game-globalcompact.org.ua - is down from 12.2024
   - quiz game for UN global compact UA
   - role: backend, frontend, devops
   - used: JS, NodeJS, Express, MongoDb, BootstrapUI
 
-https://bustime.tk, https://kadino.netlify.app,  - git - https://github.com/dzmitryNz/kadino
+https://bustime.tk, https://kadino.netlify.app,
   - role: backend, frontend, IOT 
   - used: JS, CSS, NodeJS, MongoDb
 
